@@ -21,4 +21,5 @@ hearder里需要填入自己的session
 ##
 由于京东优惠券和促销是动态jquery控件加载的，所以通过以下方法获取
 https://item.jd.com/coupons?skuId=208399&cat=1319%2C1525%2C7057&venderId=1000001933
+
 https://cd.jd.com/promotion/v2?callback=jQuery8797075&skuId=208399&area=5_239_243_48622&venderId=1000001933&cat=1319%2C1525%2C7057
